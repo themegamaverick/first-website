@@ -1,0 +1,31 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {
+  background-color: #eeeeef;
+}
+body {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"
+}
+h1 {
+	color:steelblue
+}
+h2 {
+	color:slategrey
+}
+body {
+	border:ridge thick #4C4D59
+}
+body {
+	text-align: center
+}
+h6{
+	font-size: 100%
+}
+h5{
+	font_size: 100%
+}
+h7{
+	font-size: 1005
+}
